@@ -11,9 +11,9 @@ _paginate: false
 
 # <!--fit--> Marp CLI example
 
-Hosting Marp slide deck on the web
+A simple test.
 
-https://github.com/yhatt/marp-cli-example
+http://1.15.246.22:3367/
 
 <style scoped>a { color: #eee; }</style>
 
