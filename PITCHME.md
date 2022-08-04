@@ -21,6 +21,8 @@ _paginate: false
 
 # <!--fit--> 基于 HMM 隐马尔可夫模型的智能拼音输入法
 
+*人工智能 20级 方盛俊*
+
 在线访问：http://1.15.246.22:3367/
 
 [![w:64 h:64](https://icongr.am/octicons/mark-github.svg)](https://github.com/OrangeX4/simple-pinyin)
